@@ -1,0 +1,7 @@
+{
+  "name": "lottie-animations",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
